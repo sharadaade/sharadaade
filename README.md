@@ -16,10 +16,11 @@
 <!-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  -->
 <!-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  -->
 <!-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  -->
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-027368?logo=dotnet&logoColor=white&style=for-the-badge)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20CORE-purple?logo=dotnet&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-00758F?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)

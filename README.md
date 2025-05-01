@@ -15,17 +15,9 @@
 # 💻 Tech Stack:
 <!-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  -->
 <!-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  -->
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <!-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  -->
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-6.0-purple?logo=dotnet&logoColor=white&style=flat)
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-6.0-blue?logo=dotnet&logoColor=white)
-
-
-<span style="background-color: #002147; border: 2px solid #333; border-radius: 2px; padding: 10px; border-radius: 5px; font-size: 20px">
-  ASP.NET Core
-</span>
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-purple?logo=dotnet&logoColor=white&style=flat)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 

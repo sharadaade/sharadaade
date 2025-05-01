@@ -19,6 +19,9 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-purple?logo=dotnet&logoColor=white&style=for-the-badge)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20CORE-purple?logo=dotnet&logoColor=white&style=for-the-badge)
+
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?logo=visualstudio&logoColor=white&style=for-the-badge)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 

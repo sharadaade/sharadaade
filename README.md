@@ -18,9 +18,10 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-<h1 style="background-color:#f0f0f0; border: 2px solid #333; padding: 10px; border-radius: 5px;">
+<span style="background-color: #002147; border: 2px solid #333; border-radius: 2px; padding: 10px; border-radius: 5px; font-size: 20px">
   ASP.NET Core
-</h1>
+</span>
+
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 

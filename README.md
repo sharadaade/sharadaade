@@ -124,9 +124,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sharad.aade.35) -->
 
 ## GitHub Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sharadaade&bg_color=0d1117&color=58a6ff&line=a61fe7&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/sharadaade)
+![GitHub Activity Graph](https://ghchart.rshah.org/sharadaade)
 
 
 ### Philosophy

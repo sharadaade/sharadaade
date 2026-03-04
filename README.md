@@ -110,13 +110,13 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://dev.to/sharadaade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sharadaade" height="30" width="40" /></a>
-<a href="https://twitter.com/isharadaade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isharadaade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharadaade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharadaade" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16368963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16368963" height="30" width="40" /></a>
-<a href="https://instagram.com/isharadaade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isharadaade" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aadesharad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aadesharad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharad-aade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharad-aade" height="30" width="40" /></a>
+<a href="https://dev.to/sharadaade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sharadaade" height="30" width="40" /></a>
+<a href="https://twitter.com/isharadaade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isharadaade" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16368963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16368963" height="30" width="40" /></a>
+<a href="https://instagram.com/isharadaade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isharadaade" height="30" width="40" /></a>
 </p>
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharadaade) -->
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aade_sharad) -->

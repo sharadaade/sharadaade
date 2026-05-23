@@ -123,9 +123,10 @@
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharadaade.in)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sharad.aade.35) -->
 
+<!--
 ## GitHub Activity
 ![GitHub Activity Graph](https://ghchart.rshah.org/sharadaade)
-
+-->
 
 ### Philosophy
 
